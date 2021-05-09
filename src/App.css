@@ -6,6 +6,9 @@
   height: 40vmin;
   pointer-events: none;
 }
+@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
